@@ -2,8 +2,8 @@
 
 # JavaScript30
 
-JavaScript 30 Day Challenge
+JavaScript 30 Day Challenge!
 
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
-11/18/18 Day 1: JavaScript Drum Kit - 
+11/18/18 Day 1: JavaScript Drum Kit -
